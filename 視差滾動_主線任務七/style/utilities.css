@@ -1,0 +1,113 @@
+/* utils ----- 這個可以理解為個別 class selector 樣式設定 */
+
+.container {
+    width: 1296px;
+    margin: 0 auto;
+}
+
+.h1 {
+    font-size: 128px;
+}
+
+.h2 {
+    font-size: 64px;
+}
+
+.fs-1 {
+    font-size: 32px;
+}
+
+.fs-2 {
+    font-size: 24px;
+}
+
+.fs-3 {
+    font-size: 20px;
+}
+
+.fs-4 {
+    font-size: 16px;
+}
+
+.text-primary {
+    color: #00ffa3;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.header {
+    background: #000;
+    color: #d1d1d1;
+    /* padding: 40px calc((100vw-1296px)/2)px; */
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.align-items-stretch {
+    align-items: stretch;
+}
+
+.align-items-start {
+    align-items: flex-start;
+}
+
+.mr-6 {
+    margin-right: 24px;
+}
+
+.mr-4 {
+    margin-right: 16px;
+}
+
+.mb-9 {
+    margin-bottom: 36px;
+}
+
+.mb-8 {
+    margin-bottom: 32px;
+}
+
+.mb-7 {
+    margin-bottom: 28px;
+}
+
+.mb-1 {
+    margin-bottom: 4px;
+}
+
+.p-4 {
+    padding: 16px;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.group {
+    width: 636px;
+}
+
